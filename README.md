@@ -11,7 +11,7 @@ npm i react-native-province-city-area
 ### 导入 
 
 ```javascript
-import ProvinceCityArea from 'province-city-area';
+import ProvinceCityArea from 'react-native-province-city-area';
 ```
 
 ### 在组件引用并传入参数
