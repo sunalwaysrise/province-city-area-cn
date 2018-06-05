@@ -1,4 +1,4 @@
-# react-native-provincecityarea
+# react-native-province-city-area
 
 这是一个ReactNative版的省市区三级联动地址选择组件，在开发RN地址簿的时候用到地址选择，本来觉得这应该是一个很常用的功能，应该不用重复造轮子。但是几番搜索都没找到想要的，眼看找轮子的时间都快要超过新造轮子的时间了，于是果断放弃，自己写了一个，分享出来给需要的人。
 
@@ -36,7 +36,7 @@ import ProvinceCityArea from 'react-native-province-city-area';
 ```javascript  
 import React, {Component} from 'react';
 import {View,Text,TouchableOpacity} from 'react-native';
-import { ProvinceCityArea } from 'province-city-area';
+import { ProvinceCityArea } from 'react-native-province-city-area';
 
 class Example extends Component {
   constructor(props) {
