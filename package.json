@@ -1,0 +1,22 @@
+{
+  "name": "province-city-area-cn",
+   "keywords": [
+    "react-component",
+    "react-native",
+    "province-city-area",
+    "省市区三级联动"
+  ],
+  "version": "1.0.0",
+  "description": "ReactNative版的省区市三级联动组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunalwaysrise/province-city-area-cn.git"
+  },
+  "homepage": "https://github.com/sunalwaysrise/province-city-area-cn#readme",
+  "author": "",
+  "license": "ISC"
+}
