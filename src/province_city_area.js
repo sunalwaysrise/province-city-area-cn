@@ -324,4 +324,4 @@ class ProvinceCityArea extends Component{
  * initData 对象{province:"浙江省",city:"衢州市",area:"柯城区",}，非必填，初始数据
  * openProvinceCityArea 布尔，是否显示，非必填，默认false
  * */
-export {ProvinceCityArea};
+export default ProvinceCityArea;

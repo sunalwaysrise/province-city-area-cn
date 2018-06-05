@@ -1,12 +1,12 @@
 {
-  "name": "province-city-area-cn",
+  "name": "react-native-province-city-area",
    "keywords": [
     "react-component",
     "react-native",
     "province-city-area",
     "省市区三级联动"
   ],
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ReactNative版的省区市三级联动组件",
   "main": "index.js",
   "scripts": {

@@ -4,6 +4,10 @@
 
 ## 使用说明
 
+### 下载
+```javascript
+npm i react-native-province-city-area
+```
 ### 导入 
 
 ```javascript
@@ -31,7 +35,7 @@ import ProvinceCityArea from 'province-city-area';
   
 ```javascript  
 import React, {Component} from 'react';
-import {Text,TouchableOpacity} from 'react-native';
+import {View,Text,TouchableOpacity} from 'react-native';
 import { ProvinceCityArea } from 'province-city-area';
 
 class Example extends Component {
