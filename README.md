@@ -65,6 +65,8 @@ class Example extends Component {
 }
 export default Example;
 ```
+### 效果
+![image](https://github.com/sunalwaysrise/province-city-area-cn/blob/master/screenshot.gif)
 
 #### 如有任何问题，欢迎在[issues](https://github.com/sunalwaysrise/province-city-area-cn/issues)页面中提出。
 
